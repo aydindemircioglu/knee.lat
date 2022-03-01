@@ -1,0 +1,29 @@
+,2670
+Unnamed: 0,19515
+Unnamed: 0.1,19515
+pat_ckey,1111111
+study_instance_uid,1.2.840.113619.6.95.31.0.3.4.1.3002.13.3136561
+patient_flag,0.0
+exam_uid,0000000001010101010111
+lta_stat,Y
+dttm,01.01.1970 um 01:01:01
+image_cnt,3
+ris_exam_id,1111111
+exam_ckey,1111111
+identifier,39284355
+sts_1_stat,Y
+procedure_code,KKL
+age,99.0990999
+Laterality,L
+ASM_x,326
+ASM_y,86
+ASM_Width,25
+ASM_Height,28
+Invalid,0
+series_instance_uid,1.3.12.2.1107.5.3.49.49394.4.928434318762790032.csv
+AccessionNumber,9864321
+series_number,8
+series_description,T098L Knie a.p. autom
+View,AP
+DCM_File,/data/data/knie/1.3.12.2.1107.5.3.49.49394.4.928434318762790032/1.dcm
+year,1970
